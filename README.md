@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vrajesh Modi a fullstack developer for your stack of requirements...! 
 - 👀 I’m interested in Creating servers & databases. Developing APIs and RESTful services.
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently focusing on problem solving.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vrajeshmodi99@gmail.com
 
